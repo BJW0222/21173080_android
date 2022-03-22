@@ -6,6 +6,6 @@
 
 # 3주차 (2022-03-22)
 
-<img width="500" height="300" src="./pic/3주차_메인.jpg"></img>
-<img width="500" height="300" src="./pic/3주차_네이버.jpg"></img>
-<img width="500" height="300" src="./pic/3주차_전화걸기.jpg"></img>
+<img width="300" height="500" src="./pic/3주차_메인.jpg"></img>
+<img width="300" height="500" src="./pic/3주차_네이버.jpg"></img>
+<img width="300" height="500" src="./pic/3주차_전화걸기.jpg"></img>
