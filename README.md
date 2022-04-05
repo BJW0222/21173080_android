@@ -11,7 +11,7 @@
 <img width="300" height="500" src="./pic/3주차_전화걸기.jpg"></img>
 
 
-# 5주차 (2022-04-05
+# 5주차 (2022-04-05)
 
 <img width="" height="" src="./pic/activity_main.jpg"></img>
 <img width="" height="" src="./pic/MainActivity.jpg"></img>
