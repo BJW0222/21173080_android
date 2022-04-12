@@ -13,7 +13,15 @@
 
 # 5주차 (2022-04-05)
 
-<img width="" height="" src="./pic/activity_main.jpg"></img>
-<img width="" height="" src="./pic/MainActivity.jpg"></img>
+<img width="" height="" src="./pic/activity_main_5.jpg"></img>
+<img width="" height="" src="./pic/MainActivity_5.jpg"></img>
 <img width="" height="" src="./pic/catView.jpg"></img>
 <img width="" height="" src="./pic/dogView.jpg"></img>
+
+
+# 6주차 (2022-04-012)
+
+<img width="" height="" src="./pic/activity_main_6.jpg"></img>
+<img width="" height="" src="./pic/MainActivity_6.jpg"></img>
+<img width="" height="" src="./pic/image01.jpg"></img>
+<img width="" height="" src="./pic/image02.jpg"></img>
