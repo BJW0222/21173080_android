@@ -22,6 +22,6 @@
 # 6주차 (2022-04-012)
 
 <img width="" height="" src="./pic/activity_main_6.jpg"></img>
-<img width="" height="" src="./pic/MainActivity_6.jpg"></img>
+<img width="" height="" src="./pic/MainActivity_6.jpg"></img> 
 <img width="" height="" src="./pic/image01.jpg"></img>
 <img width="" height="" src="./pic/image02.jpg"></img>
