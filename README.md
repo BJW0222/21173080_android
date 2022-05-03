@@ -19,9 +19,18 @@
 <img width="" height="" src="./pic/dogView.jpg"></img>
 
 
-# 6주차 (2022-04-012)
+# 6주차 (2022-04-12)
 
 <img width="" height="" src="./pic/activity_main_6.jpg"></img>
 <img width="" height="" src="./pic/MainActivity_6.jpg"></img> 
 <img width="" height="" src="./pic/image01.jpg"></img>
 <img width="" height="" src="./pic/image02.jpg"></img>
+
+
+# 9주차 (2022-05-03)
+
+<img width="" height="" src="./pic/0503_xml_1.jpg"></img>
+<img width="" height="" src="./pic/0503_xml_2.jpg"></img> 
+<img width="" height="" src="./pic/0503_java_1.jpg"></img>
+<img width="" height="" src="./pic/0503_java_2.jpg"></img>
+<img width="" height="" src="./pic/0503.jpg"></img>
