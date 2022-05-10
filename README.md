@@ -34,3 +34,11 @@
 <img width="" height="" src="./pic/0503_java_1.jpg"></img>
 <img width="" height="" src="./pic/0503_java_2.jpg"></img>
 <img width="" height="" src="./pic/0503.jpg"></img>
+
+# 10주차 (2022-05-10)
+
+<img width="" height="" src="./pic/0510.jpg"></img>
+<img width="" height="" src="./pic/0510_Main_java.jpg"></img> 
+<img width="" height="" src="./pic/0510_Menu_java.jpg"></img>
+<img width="" height="" src="./pic/0510_Manifest_xml.jpg"></img>
+
