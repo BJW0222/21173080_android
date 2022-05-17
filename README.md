@@ -46,6 +46,6 @@
 
 <img width="" height="" src="./pic/0517.jpg"></img>
 <img width="" height="" src="./pic/0517_Main_xml.jpg"></img> 
-<img width="" height="" src="./pic/0517_Menu_java_1.jpg"></img>
-<img width="" height="" src="./pic/0517_Menu_java_2.jpg"></img>
+<img width="" height="" src="./pic/0517_Main_java_1.jpg"></img>
+<img width="" height="" src="./pic/0517_Main_java_2.jpg"></img>
 
